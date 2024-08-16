@@ -1,0 +1,7 @@
+:root{
+    margin: 50px 200px 0px 200px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
